@@ -1,0 +1,18 @@
+Pour le compte d'un de nos partenaires, une Multinationale IT en pleine expansion, CPL JOBS TUNISIE cherche à recruter : 
+
+Développeur Java / JEE confirmé. 
+
+Pré-requis : 
+Vous justifiez d’une expérience significative et réussie d’au moins 3 ans dans le développement d’applications en environnement JAVA/J2EE et ayant les compétences techniques souhaitées : 
+· Frameworks de développements : Spring, Spring MVC, Hibernate, Maven 2, JSF2 
+· Connaissances techniques : Services web, JMS Base de données : Oracle, MySQL 
+· Serveurs d’applications : Tomcat, JBoss, UML
+· Environnements de développement : Eclipse
+Exigences
+ Expertise en environnement JAVA J2EE.
+ Autonomie dans les études et les développements.
+ Des expériences réussies dans le développement et la gestion de projet.
+ Autonomie et réactivité pour mener des études dans des délais assez serrés.
+ Très bon niveau de communication, de synthèse et de négociation avec aisance et facilité de rédaction des documents (quick scan,      
+ spécifications, prése BI
+ Très bonne maîtrise du français et de l'anglais.
