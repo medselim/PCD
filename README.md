@@ -1,3 +1,3 @@
 # PCD
-Selection automatique des candidats
+Sélection automatique des candidats pour une offre d'embauche
 *****
